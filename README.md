@@ -12,16 +12,16 @@ Just like in Hangaroo, the user needs to guess the word/s through selecting the 
 
 - There are five levels, one word each
 - Hint letters are randomly selected for a word
-- Only two wrong guess of letters are allowed per level
+- A wrong guess of letter will remove a part of the robot (right then left arm)
+- Only two wrong guess are allowed per level
 - Game over for third wrong guess, but is allowed to play again for same level
-- A wrong guess of letter will remove a part of the robot (right and left arm)
 
 ### Note
 
 - All words are static or pre-defined
 - The background, robot, buttons and texts are all images
 - When reached the end, it will not go back to the start
-- Needs to be re-executed the program in order to be played again
+- Program needs to be re-executed in order to be played again
 
 <br>
 
