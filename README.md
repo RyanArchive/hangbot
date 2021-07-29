@@ -38,13 +38,7 @@ Just like in Hangaroo, the user needs to guess the word/s through selecting the 
 
 - Java
 - JFrame
-- Java Development Kit (JDK)
 - Any IDE, or compiler
-
-#### Suggested Online Compiler (Alternative)
-
-- [OnlineGDB](https://www.onlinegdb.com)
-- [JDoodle](https://www.jdoodle.com)
 
 #### Using Command Prompt (Alternative)
 
