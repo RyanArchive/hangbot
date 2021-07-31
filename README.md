@@ -27,8 +27,6 @@ Just like in Hangaroo, the user needs to guess the word/s through selecting the 
 
 ## Screenshot
 
-![image](https://user-images.githubusercontent.com/84888155/125411326-65880000-e3f0-11eb-9fc4-9e9200f4994a.png)
-
 ![image](https://user-images.githubusercontent.com/84888155/125411368-70429500-e3f0-11eb-9932-339010663824.png)
 
 
